@@ -49,6 +49,8 @@ Visit Moonlit:
 
 [Moonlit Website →](https://moonlitverse.com/)
 
+[Version History →](CHANGELOG.md)
+
 Download:
 
 [Download Moonlit →](https://apps.apple.com/us/app/moonlit-verse/id6768858088)
