@@ -49,13 +49,13 @@ Moonlit is available on the web, iPhone, and iPad.
 
 Visit Moonlit:
 
-[Moonlit Website →](https://moonlitverse.com/)
+[Moonlit Website →](https://moonlitverse.com/?utm_source=github&utm_medium=referral)
 
 [Version History →](CHANGELOG.md)
 
 Download:
 
-[Download Moonlit →](https://moonlitverse.com/)
+[Download Moonlit →](https://moonlitverse.com/?utm_source=github&utm_medium=referral)
 
 ## Feedback & Issues
 
