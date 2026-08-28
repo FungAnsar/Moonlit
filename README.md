@@ -2,6 +2,8 @@
 
 **A quiet space for discovering, reading, and collecting Chinese poetry.**
 
+![Moonlit overview](assets/moonlit-overview.png)
+
 Moonlit is designed around the experience of reading poetry.
 
 It brings Chinese poetry into a calm, focused digital space — making it
