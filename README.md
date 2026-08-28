@@ -55,7 +55,7 @@ Visit Moonlit:
 
 Download:
 
-[Download Moonlit →](https://apps.apple.com/us/app/moonlit-verse/id6768858088)
+[Download Moonlit →](https://apps.apple.com/cn/app/moonlit-%E6%9C%88%E4%B8%8B/id6768858088?uo=4)
 
 ## Feedback & Issues
 
